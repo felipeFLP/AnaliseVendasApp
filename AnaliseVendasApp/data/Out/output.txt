@@ -1,0 +1,4 @@
+Número de clientes: 2
+Número de vendedores: 2
+Venda mais cara: ID (10)
+Pior vendedor: Paulo
